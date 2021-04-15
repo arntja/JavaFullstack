@@ -1,5 +1,5 @@
 package com.tamuk;
-import Assignments.src.assignment_1;
+//import Assignments.src.assignment_1;
 
 public class Data {
 	int id1 = 456;
