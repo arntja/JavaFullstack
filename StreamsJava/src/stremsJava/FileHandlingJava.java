@@ -14,5 +14,4 @@ public class FileHandlingJava {
 		String str = dis.readUTF();
 		System.out.println(str);
 	}
-
 }
