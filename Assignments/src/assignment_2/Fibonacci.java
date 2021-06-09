@@ -5,9 +5,6 @@ import java.io.*;
 public class Fibonacci {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-		
-		//InputStreamReader arun = new InputStreamReader(System.in);
 		BufferedReader teja = new BufferedReader(new InputStreamReader(System.in));
 		System.out.print("Print the first 'n' Fibonacci number: ");
 		
