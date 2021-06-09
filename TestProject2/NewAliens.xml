@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalaliens xmlns:tns="http://www.example.org/AlienSchema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/AlienSchema AlienSchema.xsd ">
+
+  <tns:alien aid="a1">
+    <tns:name>arun</tns:name>
+    <tns:salary>3000</tns:salary>
+  </tns:alien>
+  
+  <tns:alien aid="a2">
+    <tns:name>teja</tns:name>
+    <tns:salary>3000</tns:salary>
+  </tns:alien>
+  
+</tns:globalaliens>

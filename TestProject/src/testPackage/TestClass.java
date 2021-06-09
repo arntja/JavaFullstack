@@ -2,6 +2,8 @@ package testPackage;
 
 public class TestClass {
 	public static void main(String[] args) {
-		System.out.println("hello arun");
+		if((System.out.printf("hello arun")) != null) {
+			
+		}
 	}	
 }
